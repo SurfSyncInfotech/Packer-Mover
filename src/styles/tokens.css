@@ -1,0 +1,27 @@
+:root {
+  --paper: #f6f1e8;
+  --paper-deep: #efe6d8;
+  --ivory: #fbf8f3;
+  --sand: #e6d9c8;
+  --beige: #d4c3ad;
+  --charcoal: #1b1815;
+  --ink: #2a241f;
+  --muted: #5e564e;
+  --navy: #1a2733;
+  --navy-mid: #243444;
+  --terracotta: #7c3424;
+  --terracotta-deep: #632818;
+  --gold: #c6a15a;
+  --gold-text: #6e5424;
+  --line: rgba(27, 24, 21, 0.12);
+  --line-strong: rgba(27, 24, 21, 0.28);
+  --shadow: 0 24px 60px rgba(27, 24, 21, 0.1);
+  --serif: "Fraunces", "Iowan Old Style", Palatino, "Palatino Linotype", serif;
+  --sans: "Outfit", "Avenir Next", "Segoe UI", sans-serif;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --header: 4.85rem;
+  --wide: 1200px;
+  --gutter: clamp(1.15rem, 3.5vw, 2.5rem);
+  --section: clamp(4.25rem, 8vw, 7.25rem);
+  color-scheme: light;
+}
